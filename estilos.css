@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+/* mis estilos*/
+body{
+    /*background-color:indigo;*/
+    background-image: url('https://spoiler.bolavip.com/__export/1600915139442/sites/bolavip/img/2020/09/23/animes_netflix_death_note_naruto_seven_deadly_sins_crop1600915138962.jpg_1902800913.jpg');
+    background-size: contain;
+    
+}
+section{
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    background-color: white;
+}
+h1{
+    color: brown;
+    font-size: 49px;
+    text-align: center;
+}
+img{
+    width: 400px;
+    box-shadow: 5px 5px 5px #999;
+}
+h3{
+    color: chartreuse;
+    font-size: 25px;
+    font-family: 'Itim', cursive;
+}
