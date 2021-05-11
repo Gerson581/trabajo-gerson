@@ -12,13 +12,17 @@ section{
     width: 80%;
     background-color: white;
 }
-h1{
+.titulo{
     color: brown;
     font-size: 49px;
     text-align: center;
 }
-img{
+.imagen1{
     width: 400px;
+    box-shadow: 5px 5px 5px #999;
+}
+.imagen2{
+    width: 700px;
     box-shadow: 5px 5px 5px #999;
 }
 h3{
